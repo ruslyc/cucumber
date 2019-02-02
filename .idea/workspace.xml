@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8a67befd-f62f-464d-a6ab-d90bdc455f4f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/GasMileageCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/GasMileageCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testData/Test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testData/Test.xlsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,30 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/configurations.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="325">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/steps/Datatables_steps.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1925">
-              <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#2948#2949#0" expanded="true" />
-                <element signature="e#2993#2994#0" expanded="true" />
-                <element signature="e#3105#3106#0" expanded="true" />
-                <element signature="e#3153#3154#0" expanded="true" />
-                <element signature="e#3267#3268#0" expanded="true" />
-                <element signature="e#3315#3316#0" expanded="true" />
-                <element signature="e#3421#3422#0" expanded="true" />
-                <element signature="e#3466#3467#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="175">
+              <caret line="15" column="5" selection-start-line="13" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -48,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/grid/remote_attempt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="575">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,64 +49,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/JDBCExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            <state relative-caret-position="75">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1549140068981" expanded="true" signature="2207:2950" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DBUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DBType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/GasMileageCalculatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/TestJDBCUtility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/ExcelRead.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/GooglePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/GasMileageCalculatorPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/DatatablesPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="350">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,6 +100,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -171,13 +143,17 @@
         <option value="$PROJECT_DIR$/src/test/resources/features/datatablesSO.feature" />
         <option value="$PROJECT_DIR$/src/test/java/steps/Datatables_steps.java" />
         <option value="$PROJECT_DIR$/src/test/java/grid/remote_attempt.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/configurations.properties" />
         <option value="$PROJECT_DIR$/src/test/java/test/ExcelRead.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/ExcelWrite.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/GaMileageCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/GasMileageCalculatorPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/GasMileageCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/test/JDBCExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/DBType.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/TestJDBCUtility.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/DBUtility.java" />
+        <option value="$PROJECT_DIR$/configurations.properties" />
       </list>
     </option>
   </component>
@@ -194,13 +170,14 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -233,7 +210,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="grid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chicago10cucumbejunit" type="b2602c69:ProjectViewProjectNode" />
@@ -248,16 +225,18 @@
               <item name="chicago10cucumbejunit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548379173955" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549143203027" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -266,6 +245,7 @@
       <recent name="utilities" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rusly\IdeaProjects\chicago10cucumbejunit\src\test\resources\testData" />
       <recent name="C:\Users\rusly\IdeaProjects\chicago10cucumbejunit\src" />
       <recent name="C:\Users\rusly\IdeaProjects\chicago10cucumbejunit" />
     </key>
@@ -282,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExcelWrite">
+  <component name="RunManager" selected="Application.TestJDBCUtility">
     <configuration name="ExcelRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.ExcelRead" />
       <module name="chicago10cucumbejunit" />
@@ -309,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="remote_attempt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="grid.remote_attempt" />
+    <configuration name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.JDBCExample" />
       <module name="chicago10cucumbejunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="grid.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,18 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Testing adding new employee to the table" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="3" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/datatablesSO.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+    <configuration name="TestJDBCUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestJDBCUtility" />
       <module name="chicago10cucumbejunit" />
-      <option name="NAME_FILTER" value="^Testing adding new employee to the table$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^Testing adding new employee to the table$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Testing adding new employee to the table" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,35 +315,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chicago10cucumbejunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="runners.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="runners" />
-      <option name="MAIN_CLASS_NAME" value="runners.Runner" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GasMileageCalculatorTest" />
+      <option name="METHOD_NAME" value="dataDrivenMileageCalculatorTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.remote_attempt" />
-      <item itemvalue="Cucumber java.Scenario: Testing adding new employee to the table" />
-      <item itemvalue="JUnit.Runner" />
       <item itemvalue="Application.ExcelRead" />
       <item itemvalue="Application.ExcelWrite" />
+      <item itemvalue="JUnit.GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" />
+      <item itemvalue="Application.JDBCExample" />
+      <item itemvalue="Application.TestJDBCUtility" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestJDBCUtility" />
+        <item itemvalue="Application.JDBCExample" />
+        <item itemvalue="JUnit.GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" />
         <item itemvalue="Application.ExcelWrite" />
         <item itemvalue="Application.ExcelRead" />
-        <item itemvalue="Application.remote_attempt" />
-        <item itemvalue="JUnit.Runner" />
-        <item itemvalue="Cucumber java.Scenario: Testing adding new employee to the table" />
       </list>
     </recent_temporary>
   </component>
@@ -387,41 +362,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Runner - 2019.01.20 at 12h 31m 51s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 20h 46m 48s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 12h 32m 53s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 20h 48m 08s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 12h 36m 20s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 20h 52m 05s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 12h 40m 09s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 20h 57m 15s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 12h 42m 22s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 20h 58m 19s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 12h 45m 40s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 20h 59m 09s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 14h 28m 44s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 21h 06m 03s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 14h 31m 53s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 21h 06m 55s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Scenario__Testing_adding_new_employee_to_the_table - 2019.01.20 at 14h 43m 23s.xml">
-      <configuration name="Scenario: Testing adding new employee to the table" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 21h 09m 51s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.01.20 at 14h 44m 42s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="GasMileageCalculatorTest_dataDrivenMileageCalculatorTest - 2019.01.24 at 21h 10m 10s.xml">
+      <configuration name="GasMileageCalculatorTest.dataDrivenMileageCalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23720682" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23987207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,14 +407,14 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.23185265" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.33694476" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Maven" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -449,6 +425,46 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/target/cucumber/index.html">
@@ -493,13 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AmazonPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.0/cucumber-core-4.2.0.jar!/cucumber/runtime/model/FeatureBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -522,13 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/amazon.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/youtube.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -542,9 +544,6 @@
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chicago10cucumbejunit.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/Test_steps.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -595,23 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/runners/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/Datatables_steps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1925">
@@ -628,16 +610,6 @@
             <element signature="e#3315#3316#0" expanded="true" />
             <element signature="e#3421#3422#0" expanded="true" />
             <element signature="e#3466#3467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/grid/remote_attempt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -670,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configurations.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/DatatablesPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -704,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/ExcelRead.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -728,9 +686,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runners/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" column="5" selection-start-line="13" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/grid/remote_attempt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/amazon.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/GasMileageCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/GasMileageCalculatorPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="599">
           <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -738,10 +743,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/GasMileageCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AmazonPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        <state relative-caret-position="300">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicago10cucumbejunit.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/JDBCExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1549140068981" expanded="true" signature="2207:2950" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DBUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DBType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configurations.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/TestJDBCUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

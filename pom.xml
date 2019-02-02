@@ -55,6 +55,11 @@
             <artifactId>selenium-server-standalone</artifactId>
             <version>2.53.0</version>
         </dependency>
+        <dependency>
+            <groupId>oracle</groupId>
+            <artifactId>ojdbc6</artifactId>
+            <version>11.2.0.3</version>
+        </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
         <dependency>
@@ -63,10 +68,14 @@
             <version>4.0.1</version>
         </dependency>
 
-
-
-
     </dependencies>
+
+    <repositories>
+        <repository>
+            <id>oracle</id>
+            <url>http://www.datanucleus.org/downloads/maven2/</url>
+        </repository>
+    </repositories>
 
 
 </project>
