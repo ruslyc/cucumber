@@ -1,5 +1,5 @@
 Feature: Amazon search
-  @amazon
+  @amazon @smoke
   Scenario: Amazon search test
     Given user goes to amazon application
     When User enters headphones keyword

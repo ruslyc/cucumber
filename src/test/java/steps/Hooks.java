@@ -12,7 +12,6 @@ public class Hooks {
     @Before
     public void setUp(Scenario scenario){
         System.out.println("This is running before each scenario");
-
     }
     @After
     public void tearDown(Scenario scenario){

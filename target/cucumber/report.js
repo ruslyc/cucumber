@@ -208,8 +208,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_extension(String)"
 });
 formatter.result({
-  "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.Datatables_steps.user_should_enter_extension(Datatables_steps.java:107)\r\n\tat ✽.User should enter extension \"453\"(src/test/resources/features/datatablesSO.feature:12)\r\n",
-  "status": "failed"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should enter start date \"2019-01-01\"",
@@ -219,7 +218,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_start_date(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should enter salary \"1200\"",
@@ -229,7 +228,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_salary(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should click to create button",
@@ -239,7 +238,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_click_to_create_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User enters first name \"John\" to search box",
@@ -249,7 +248,7 @@ formatter.match({
   "location": "Datatables_steps.user_enters_first_name_to_search_box(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should see first name \"John\" is inserted in the table",
@@ -259,9 +258,8 @@ formatter.match({
   "location": "Datatables_steps.user_should_see_first_name_is_inserted_in_the_table(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
-formatter.embedding("image/png", "embedded0.png");
 formatter.after({
   "status": "passed"
 });
@@ -356,8 +354,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_extension(String)"
 });
 formatter.result({
-  "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.Datatables_steps.user_should_enter_extension(Datatables_steps.java:107)\r\n\tat ✽.User should enter extension \"312\"(src/test/resources/features/datatablesSO.feature:12)\r\n",
-  "status": "failed"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should enter start date \"2019-01-05\"",
@@ -367,7 +364,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_start_date(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should enter salary \"1500\"",
@@ -377,7 +374,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_salary(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should click to create button",
@@ -387,7 +384,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_click_to_create_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User enters first name \"Andrew\" to search box",
@@ -397,7 +394,7 @@ formatter.match({
   "location": "Datatables_steps.user_enters_first_name_to_search_box(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should see first name \"Andrew\" is inserted in the table",
@@ -407,9 +404,8 @@ formatter.match({
   "location": "Datatables_steps.user_should_see_first_name_is_inserted_in_the_table(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
-formatter.embedding("image/png", "embedded1.png");
 formatter.after({
   "status": "passed"
 });
@@ -504,8 +500,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_extension(String)"
 });
 formatter.result({
-  "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.Datatables_steps.user_should_enter_extension(Datatables_steps.java:107)\r\n\tat ✽.User should enter extension \"334\"(src/test/resources/features/datatablesSO.feature:12)\r\n",
-  "status": "failed"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should enter start date \"2019-05-01\"",
@@ -515,7 +510,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_start_date(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should enter salary \"1200\"",
@@ -525,7 +520,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_enter_salary(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should click to create button",
@@ -535,7 +530,7 @@ formatter.match({
   "location": "Datatables_steps.user_should_click_to_create_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User enters first name \"Kate\" to search box",
@@ -545,7 +540,7 @@ formatter.match({
   "location": "Datatables_steps.user_enters_first_name_to_search_box(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "User should see first name \"Kate\" is inserted in the table",
@@ -555,9 +550,8 @@ formatter.match({
   "location": "Datatables_steps.user_should_see_first_name_is_inserted_in_the_table(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
-formatter.embedding("image/png", "embedded2.png");
 formatter.after({
   "status": "passed"
 });

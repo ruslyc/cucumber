@@ -12,7 +12,7 @@ public class TestJDBCUtility {
 
     public static void main(String[] args) throws SQLException {
         List<Map<String, Object>> resultTable;
-        String query = "select employee_id, first_name, last_name from employees where rownum<=3";
+        String query = "select employee_id, first_name, last_name from employees where rownum<=9";
         DBUtility.openConnection(DBType.ORACLE );
         resultTable = DBUtility.executeSQLQuery(query);
         DBUtility.closeConnection();
